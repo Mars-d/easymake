@@ -11,7 +11,7 @@
 #define ESP_WIFI_PASS      "11111111"
 #define ESP_MAXIMUM_RETRY  5
 
-#define CONFIG_BROKER_URL "mqtt://175.178.163.249"
+#define CONFIG_BROKER_URL "mqtt://100.100.100.100"
 #define CONFIG_PORT 1883
 
 #define AUTO_UPLOAD_TIME 10
